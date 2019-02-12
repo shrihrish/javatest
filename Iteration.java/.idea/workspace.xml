@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f6005c2-5ed1-4763-8177-79438539fa53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Addition.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Addition.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Addition.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Addition.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Addition.java/Addition.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Addition.java/src/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Addition.java/src/AdditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/CapsLetter.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/src/CapsLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/src/CapsLetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CapsLetter.java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/DemoTesting.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/src/main/java/com/stackroute/unittest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/src/main/java/com/stackroute/unittest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/src/main/java/com/stackroute/unittest/.idea/unittest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/src/main/java/com/stackroute/unittest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTesting.java/src/main/test/com/stackroute/unittest/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/EvenNumTest.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenNumTest.java/src/com/company/EvenNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/Guessed.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/src/Guessed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/src/GuessedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guessed.java/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iteration.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/RepeatChar.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/src/RepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/src/RepeatCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RepeatChar.java/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/Sortnumber.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/src/Sortnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/src/SortnumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sortnumber.java/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/TomnJerry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/out/production/TomnJerry/TomnJerry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/out/production/TomnJerry/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/src/TomnJerry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomnJerry.java/src/com/company/TomnJerry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/out/production/untitled104/META-INF/untitled104.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/out/production/untitled104/com/company/CheckPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/palindrome.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/src/com/company/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/src/com/company/CheckPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../palindrome.java/untitled104.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Iteration.java" />
+        <option value="$PROJECT_DIR$/src/IterationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Iteration.java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Iteration.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Iteration.java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Iteration.java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549998873846" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Iteration.java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6005c2-5ed1-4763-8177-79438539fa53" name="Default Changelist" comment="" />
+      <created>1549997874318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549997874318</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Iteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IterationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
